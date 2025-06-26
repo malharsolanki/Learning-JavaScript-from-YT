@@ -21,7 +21,51 @@
 // ""-> false
 // "hitesh"-> true
 
-let somenumber = 33;
-let stringnumber = String(somenumber);
-console.log(stringnumber);
-console.log(typeof stringnumber);
+// let somenumber = 33;
+// let stringnumber = String(somenumber);
+// console.log(stringnumber);
+// console.log(typeof stringnumber);
+
+
+
+//operations
+// let value=3
+// let negvalue= -value
+// console.log(negvalue)
+
+
+
+// console.log(2 + 2);
+// console.log(2 - 2);
+// console.log(2 * 2);
+// console.log(2 / 2);
+// console.log(2 % 2);
+// console.log(2 ** 2);
+
+// let str1 = "malhar";
+// let str2 = " solanki";
+// console.log(str1 + str2);
+
+
+// let str1=1
+// let str2="2"
+// console.log("1"+9)
+// console.log(1+2+"2")
+// console.log(3+"4"+4);
+
+
+// console.log(true+); // error
+// console.log(+true); // gives 1
+
+// let num1,num2,num3
+// num1=num2=num3=2+2
+// console.log(num1);
+
+// let gcounter=100
+// gcounter++
+// console.log(gcounter); // gives 101
+let gcounter=100
+++gcounter
+console.log(gcounter);
+
+
